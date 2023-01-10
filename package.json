@@ -1,0 +1,16 @@
+{
+  "name": "write-the-code-you-want-to-write",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx swc ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@swc/cli": "^0.1.59",
+    "@swc/core": "^1.3.25"
+  }
+}

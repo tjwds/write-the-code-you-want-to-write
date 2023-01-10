@@ -1,0 +1,10 @@
+{
+    "jsc": {
+        "parser": {
+            "syntax": "ecmascript",
+            "decorators": true
+        },
+        "target": "es5"
+    },
+    "minify": false
+}
